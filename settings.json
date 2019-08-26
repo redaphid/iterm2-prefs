@@ -77,7 +77,7 @@
     "Blue Component" : 1
   },
   "Unlimited Scrollback" : true,
-  "Custom Command" : "Yes",
+  "Custom Command" : "No",
   "HotKey Key Code" : 50,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
