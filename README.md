@@ -7,7 +7,7 @@ Feel free to add whatever. Gimme yo cool shit!
 So far:
  - Like infinite scroll
  - toggle light/dark 
- - "Quake mode"
+ - "Quake mode" (helpful for fullscreened apps)
 
 - cmd+~ : opens the terminal, Quake-like.
 - cmd+shift+l : Light color scheme.
