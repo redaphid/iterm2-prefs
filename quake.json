@@ -46,7 +46,7 @@
   ],
   "Scrollback Lines" : 0,
   "HotKey Window Reopens On Activation" : true,
-  "Hide After Opening" : false,
+  "Hide After Opening" : true,
   "Flashing Bell" : false,
   "Cursor Guide Color" : {
     "Red Component" : 0.70213186740875244,
@@ -56,6 +56,7 @@
     "Green Component" : 0.9268307089805603
   },
   "BM Growl" : true,
+  "AWDS Window Directory" : "",
   "Ansi 3 Color" : {
     "Green Component" : 1,
     "Red Component" : 1,
@@ -78,6 +79,7 @@
   },
   "Unlimited Scrollback" : true,
   "Custom Command" : "No",
+  "AWDS Tab Option" : "Recycle",
   "HotKey Key Code" : 50,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
@@ -278,7 +280,7 @@
   },
   "Window Type" : 2,
   "Use Bright Bold" : true,
-  "Has Hotkey" : true,
+  "Has Hotkey" : false,
   "HotKey Modifier Activation" : 0,
   "Cursor Text Color" : {
     "Green Component" : 1,
@@ -297,9 +299,9 @@
     "Red Component" : 1,
     "Blue Component" : 0.37647059999999999
   },
-  "Name" : "Default",
+  "Name" : "Quake",
   "Blinking Cursor" : false,
-  "Guid" : "1A590B9E-690E-44D6-BCD6-BC82FFB0A43E",
+  "Guid" : "21546E37-98DB-4621-AECD-A90C88AD8BA9",
   "Idle Code" : 0,
   "Ansi 10 Color" : {
     "Green Component" : 1,
@@ -324,6 +326,7 @@
     "Red Component" : 0.30978869999999997,
     "Blue Component" : 0.30978869999999997
   },
+  "AWDS Pane Directory" : "",
   "Blur" : false,
   "Normal Font" : "Monaco 12",
   "Vertical Spacing" : 1,
@@ -333,6 +336,8 @@
     "Blue Component" : 0.93353169999999996
   },
   "Space" : -1,
+  "AWDS Tab Directory" : "",
+  "AWDS Pane Option" : "Recycle",
   "HotKey Window AutoHides" : true,
   "Command" : "\/usr\/local\/bin\/fish",
   "Terminal Type" : "xterm-256color",
@@ -359,6 +364,10 @@
   },
   "Screen" : -1,
   "HotKey Characters Ignoring Modifiers" : "`",
+  "AWDS Window Option" : "Recycle",
+  "Bound Hosts" : [
+
+  ],
   "Non Ascii Font" : "Monaco 12",
   "Ansi 13 Color" : {
     "Green Component" : 0.61330589999999996,
